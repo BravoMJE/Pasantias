@@ -145,6 +145,9 @@
     <Compile Include="Solicitud.cs" />
     <Compile Include="Tutor.cs" />
     <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
