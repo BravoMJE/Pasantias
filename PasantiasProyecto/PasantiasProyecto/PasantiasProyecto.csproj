@@ -138,13 +138,18 @@
     <Compile Include="InformeFinal.cs" />
     <Compile Include="InformeMitadPeriodo.cs" />
     <Compile Include="Jefe.cs" />
+    <Compile Include="JefeDepartamento.cs" />
     <Compile Include="Practicante.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistroAsistencia.cs" />
     <Compile Include="Solicitud.cs" />
+    <Compile Include="Subdecano.cs" />
     <Compile Include="Tutor.cs" />
     <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
