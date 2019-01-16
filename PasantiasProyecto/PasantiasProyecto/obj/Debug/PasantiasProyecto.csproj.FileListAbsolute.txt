@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
