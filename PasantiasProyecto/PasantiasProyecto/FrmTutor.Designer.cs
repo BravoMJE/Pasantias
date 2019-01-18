@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmTutor));
             this.PnlIzquierdo = new System.Windows.Forms.Panel();
+            this.btnInformeMitad = new System.Windows.Forms.Button();
+            this.btnInformeFinal = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.PnlTitulo = new System.Windows.Forms.Panel();
             this.btnMinimizar = new System.Windows.Forms.PictureBox();
@@ -38,8 +40,6 @@
             this.btnCerrar = new System.Windows.Forms.PictureBox();
             this.btnOpcione = new System.Windows.Forms.PictureBox();
             this.PnlContenedor = new System.Windows.Forms.Panel();
-            this.btnInformeFinal = new System.Windows.Forms.Button();
-            this.btnInformeMitad = new System.Windows.Forms.Button();
             this.PnlIzquierdo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.PnlTitulo.SuspendLayout();
@@ -63,6 +63,28 @@
             this.PnlIzquierdo.Name = "PnlIzquierdo";
             this.PnlIzquierdo.Size = new System.Drawing.Size(251, 650);
             this.PnlIzquierdo.TabIndex = 0;
+            // 
+            // btnInformeMitad
+            // 
+            this.btnInformeMitad.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnInformeMitad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnInformeMitad.Location = new System.Drawing.Point(31, 384);
+            this.btnInformeMitad.Name = "btnInformeMitad";
+            this.btnInformeMitad.Size = new System.Drawing.Size(173, 77);
+            this.btnInformeMitad.TabIndex = 1;
+            this.btnInformeMitad.Text = "Informe Mitad Periodo";
+            this.btnInformeMitad.UseVisualStyleBackColor = true;
+            // 
+            // btnInformeFinal
+            // 
+            this.btnInformeFinal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnInformeFinal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnInformeFinal.Location = new System.Drawing.Point(31, 246);
+            this.btnInformeFinal.Name = "btnInformeFinal";
+            this.btnInformeFinal.Size = new System.Drawing.Size(173, 65);
+            this.btnInformeFinal.TabIndex = 0;
+            this.btnInformeFinal.Text = "Informe Final";
+            this.btnInformeFinal.UseVisualStyleBackColor = true;
             // 
             // pictureBox1
             // 
@@ -160,28 +182,6 @@
             this.PnlContenedor.Name = "PnlContenedor";
             this.PnlContenedor.Size = new System.Drawing.Size(1049, 600);
             this.PnlContenedor.TabIndex = 2;
-            // 
-            // btnInformeFinal
-            // 
-            this.btnInformeFinal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.btnInformeFinal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnInformeFinal.Location = new System.Drawing.Point(31, 232);
-            this.btnInformeFinal.Name = "btnInformeFinal";
-            this.btnInformeFinal.Size = new System.Drawing.Size(173, 65);
-            this.btnInformeFinal.TabIndex = 0;
-            this.btnInformeFinal.Text = "Informe Final";
-            this.btnInformeFinal.UseVisualStyleBackColor = true;
-            // 
-            // btnInformeMitad
-            // 
-            this.btnInformeMitad.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.btnInformeMitad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnInformeMitad.Location = new System.Drawing.Point(31, 384);
-            this.btnInformeMitad.Name = "btnInformeMitad";
-            this.btnInformeMitad.Size = new System.Drawing.Size(173, 77);
-            this.btnInformeMitad.TabIndex = 1;
-            this.btnInformeMitad.Text = "Informe Mitad Periodo";
-            this.btnInformeMitad.UseVisualStyleBackColor = true;
             // 
             // FrmTutor
             // 

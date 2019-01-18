@@ -16,7 +16,7 @@ namespace PasantiasProyecto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmInformeMitad());
+            Application.Run(new FrmInicio());
         }
     }
 }
