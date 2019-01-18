@@ -74,17 +74,17 @@
     <Compile Include="FrmInformeFinal.Designer.cs">
       <DependentUpon>FrmInformeFinal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmInformeJefe.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmInformeJefe.Designer.cs">
-      <DependentUpon>FrmInformeJefe.cs</DependentUpon>
-    </Compile>
     <Compile Include="FrmInformeMitad.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmInformeMitad.Designer.cs">
       <DependentUpon>FrmInformeMitad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInformeSemestral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInformeSemestral.designer.cs">
+      <DependentUpon>FrmInformeSemestral.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmInicio.cs">
       <SubType>Form</SubType>
@@ -152,6 +152,12 @@
     <Compile Include="Subdecano.cs" />
     <Compile Include="Tutor.cs" />
     <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="FrmInformeMitad.resx">
+      <DependentUpon>FrmInformeMitad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInformeSemestral.resx">
+      <DependentUpon>FrmInformeSemestral.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmInicio.resx">
       <DependentUpon>FrmInicio.cs</DependentUpon>
     </EmbeddedResource>

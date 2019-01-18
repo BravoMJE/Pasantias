@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PasantiasProyecto
 {
-    public partial class FrmInformeJefe : Form
+    public partial class FrmInformeSemestral : Form
     {
-        public FrmInformeJefe()
+        public FrmInformeSemestral()
         {
             InitializeComponent();
         }
