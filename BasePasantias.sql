@@ -5,6 +5,8 @@ go
 
 
 
+---------CREACION DE LAS TABLAS------
+
 create table tblInformeJefe(
 idInformeJefe int identity(1,1) not null primary key,
 areaAsignada varchar(50) not null,
@@ -161,3 +163,66 @@ idpregunta int identity(1,1) not null primary key,
 descripcion varchar(50)
 )
 go
+
+
+
+
+
+---------RELACIONES ENTRE TABLAS--------
+
+-----INFORME JEFE - EMPRESA---
+
+alter table tblInformeJefe
+add constraint fk_informeJefe_empresa
+foreign key (idEmpresa) references tblEmpresa(idEmpresa)
+go
+
+-----IFORME JEFE - PRACTICANTE----
+alter table tblInformeJefe
+add constraint fk_InformeJefe_Practicante
+foreign key (idPracticante) references tblPracticante(idPracticante)
+
+---------INFORME JEFE - TUTOR-----
+alter table tblInformeJefe
+add constraint fk_informeJefe_tutor
+foreign key (idTutor) references tblTutor(idTutor)
+
+---------INFORME JEFE - REGISTRO DE ASISTENCIA-------
+alter table tblInformeJefe
+add constraint fk_InformeJefe_RegistroDeAsistencia
+foreign key (idRegistroDeAsistencia) references tblRegistroDeAsistencia(idRegistroDeAsistencia)
+
+
+---INFORME MITAD DE PERIODO - EMPRESA---
+alter table tblInformeMitadPeriodo
+add constraint fk_informeMitadPeriodo_Empresa
+foreign key (idEmpresa) references tblEmpresa(idEmpresa)
+
+
+----INFORME MITAD DE PERIODO - PRACTICANTE
+alter table tblInformeMitadPeriodo
+add constraint fk_informeMitadPeriodo_Practicante
+foreign key (idPracticante) references tblPracticante(idPracticante)
+
+
+----CONTROL TUTOR - INFORME MITAD DE PERIODO---
+alter table tblControlTutor
+add constraint fk_ControlTutor_InformeMitadDePeriodo
+foreign key (idInformeMitadPeriodo) references tblInformeMitadPeriodo(idInformeMitadPeriodo)
+
+----INFORME FINAL - PRACTICANTE---
+alter table tblInformeFinal
+add constraint fk_InformeFinal_Practicante
+foreign key (idPracticante) references tblPracticante(idPracticante)
+
+
+----INFORME FINAL - EMPRESA---
+alter table tblInformeFinal
+add constraint fk_InformeFinal_Empresa
+foreign key (idEmpresa) references tblEmpresa(idEmpresa)
+
+
+----PRACTICANTE - USUARIO---
+alter table tblPracticante
+add constraint fk_Practicante_Usuario
+foreign key (idUsuario) references tblUsuario(idUsuario)
