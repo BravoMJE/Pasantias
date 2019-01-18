@@ -1,6 +1,6 @@
 ﻿namespace PasantiasProyecto
 {
-    partial class FrmInformeMitad
+    partial class FrmInformeSemestral
     {
         /// <summary>
         /// Required designer variable.

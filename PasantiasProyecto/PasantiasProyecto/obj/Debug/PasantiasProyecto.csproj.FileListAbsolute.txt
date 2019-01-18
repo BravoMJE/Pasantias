@@ -2,3 +2,16 @@ C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\Pas
 C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
 C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
 C:\Users\User\OneDrive - Escuela Politécnica Nacional\6 Sexto\PHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeJefe.resources
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInicio.resources
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+C:\Users\kYDke\Documents\PasantiasPHV\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb

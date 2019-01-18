@@ -51,6 +51,18 @@
     <Compile Include="Decano.cs" />
     <Compile Include="Empresa.cs" />
     <Compile Include="Encuesta.cs" />
+    <Compile Include="FrmInformeJefe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInformeJefe.designer.cs">
+      <DependentUpon>FrmInformeJefe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInformeSemestral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInformeSemestral.designer.cs">
+      <DependentUpon>FrmInformeSemestral.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmInicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,12 +86,6 @@
     </Compile>
     <Compile Include="FrmInformeFinal.Designer.cs">
       <DependentUpon>FrmInformeFinal.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmInformeJefe.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmInformeJefe.Designer.cs">
-      <DependentUpon>FrmInformeJefe.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmInformeMitad.cs">
       <SubType>Form</SubType>
@@ -145,6 +151,15 @@
     <Compile Include="Solicitud.cs" />
     <Compile Include="Tutor.cs" />
     <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="FrmInformeJefe.resx">
+      <DependentUpon>FrmInformeJefe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInformeMitad.resx">
+      <DependentUpon>FrmInformeMitad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInformeSemestral.resx">
+      <DependentUpon>FrmInformeSemestral.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmInicio.resx">
       <DependentUpon>FrmInicio.cs</DependentUpon>
     </EmbeddedResource>
