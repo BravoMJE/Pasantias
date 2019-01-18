@@ -30,8 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmInicio));
             this.bunifuGradientPanel1 = new Bunifu.Framework.UI.BunifuGradientPanel();
-            this.btnIniciarSecion = new Bunifu.Framework.UI.BunifuThinButton2();
             this.txtUsername = new Bunifu.Framework.UI.BunifuTextbox();
+            this.btnIniciarSecion = new Bunifu.Framework.UI.BunifuThinButton2();
             this.bunifuGradientPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -52,6 +52,19 @@
             this.bunifuGradientPanel1.Size = new System.Drawing.Size(600, 450);
             this.bunifuGradientPanel1.TabIndex = 0;
             // 
+            // txtUsername
+            // 
+            this.txtUsername.BackColor = System.Drawing.Color.Silver;
+            this.txtUsername.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtUsername.BackgroundImage")));
+            this.txtUsername.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.txtUsername.ForeColor = System.Drawing.Color.SeaGreen;
+            this.txtUsername.Icon = ((System.Drawing.Image)(resources.GetObject("txtUsername.Icon")));
+            this.txtUsername.Location = new System.Drawing.Point(153, 176);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.Size = new System.Drawing.Size(250, 42);
+            this.txtUsername.TabIndex = 3;
+            this.txtUsername.text = "Bunifu TextBox";
+            // 
             // btnIniciarSecion
             // 
             this.btnIniciarSecion.ActiveBorderThickness = 1;
@@ -59,7 +72,7 @@
             this.btnIniciarSecion.ActiveFillColor = System.Drawing.Color.Violet;
             this.btnIniciarSecion.ActiveForecolor = System.Drawing.Color.Red;
             this.btnIniciarSecion.ActiveLineColor = System.Drawing.Color.DarkSeaGreen;
-            this.btnIniciarSecion.BackColor = System.Drawing.Color.Transparent;
+            this.btnIniciarSecion.BackColor = System.Drawing.SystemColors.Control;
             this.btnIniciarSecion.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnIniciarSecion.BackgroundImage")));
             this.btnIniciarSecion.ButtonText = "Iniciar Secion";
             this.btnIniciarSecion.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -76,19 +89,6 @@
             this.btnIniciarSecion.Size = new System.Drawing.Size(250, 41);
             this.btnIniciarSecion.TabIndex = 1;
             this.btnIniciarSecion.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // txtUsername
-            // 
-            this.txtUsername.BackColor = System.Drawing.Color.Silver;
-            this.txtUsername.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("txtUsername.BackgroundImage")));
-            this.txtUsername.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.txtUsername.ForeColor = System.Drawing.Color.SeaGreen;
-            this.txtUsername.Icon = ((System.Drawing.Image)(resources.GetObject("txtUsername.Icon")));
-            this.txtUsername.Location = new System.Drawing.Point(153, 108);
-            this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(250, 42);
-            this.txtUsername.TabIndex = 3;
-            this.txtUsername.text = "Bunifu TextBox";
             // 
             // FrmInicio
             // 
