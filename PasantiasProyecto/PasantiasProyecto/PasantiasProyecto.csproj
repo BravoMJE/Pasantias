@@ -150,7 +150,6 @@
     <Compile Include="RegistroAsistencia.cs" />
     <Compile Include="Solicitud.cs" />
     <Compile Include="Subdecano.cs" />
-    <Compile Include="subida.cs" />
     <Compile Include="Tutor.cs" />
     <Compile Include="Usuario.cs" />
     <EmbeddedResource Include="FrmInformeMitad.resx">
