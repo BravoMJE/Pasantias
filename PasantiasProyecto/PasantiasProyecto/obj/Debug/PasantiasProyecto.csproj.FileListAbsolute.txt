@@ -15,3 +15,17 @@ C:\Users\User\Desktop\PasantiasPHV\PasantiasProyecto\PasantiasProyecto\obj\Debug
 C:\Users\User\Desktop\PasantiasPHV\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
 C:\Users\User\Desktop\PasantiasPHV\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb
 C:\Users\User\Desktop\PasantiasPHV\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmTutor.resources
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInicio.resources
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmTutor.resources
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CopyComplete
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+C:\Users\User\Documents\ProyectoPHV\crisanth1\Pasantias\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb
